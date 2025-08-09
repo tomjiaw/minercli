@@ -1,6 +1,6 @@
 # Volara Miner
 
-Miner for the Volara X DLP
+# Miner for the Volara X DLP
 
 # About
 
